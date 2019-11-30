@@ -1,6 +1,3 @@
-#undef _GLIBCXX_ATOMIC_BUILTINS
-#undef _GLIBCXX_USE_INT128
-
 #include <thrust/device_vector.h>
 #include <cublas_v2.h>
 #include <iostream>
